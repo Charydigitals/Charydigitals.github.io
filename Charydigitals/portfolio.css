@@ -147,4 +147,8 @@
 .btn:hover {
     box-shadow: none;
 }
+.photo > .pic1 {
+    height:20px;
+    width:20px;
+}
 
